@@ -44,3 +44,6 @@ const myVerb = "ran";
 const myAdverb = "quickly";
 // Only change code below this line
 const wordBlanks = "The "+myNoun+" was "+myAdjective+" and "+myVerb+" very "+myAdverb;
+
+// 10 Store Multiple Values in one Variable using JavaScript Arrays
+const myArray = ["Satyam", 21];
