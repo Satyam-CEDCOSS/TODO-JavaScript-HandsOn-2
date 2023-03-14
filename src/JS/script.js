@@ -54,3 +54,7 @@ const myArray = [["Bulls", 23], ["White Sox", 45]];
 // 12 Access Array Data with Indexes
 const myArray = [50, 60, 70];
 let myData = myArray[0]
+
+// 13 Modify Array Data With Indexes
+const myArray = [18, 64, 99];
+myArray[0] = 45
