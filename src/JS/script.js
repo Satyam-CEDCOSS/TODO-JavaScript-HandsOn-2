@@ -7,3 +7,8 @@ const someAdjective = "Fun";
 let myStr = "Learning to code is ";
 myStr += someAdjective
 
+// 3 Find the Length of a String
+let lastNameLength = 0;
+const lastName = "Lovelace";
+// Only change code below this line
+lastNameLength = lastName.length;
