@@ -24,3 +24,9 @@ let myStr = "Jello World";
 // Only change code below this line
 myStr = "Hello World";
 
+// 6 Use Bracket Notation to Find the Nth Character in a String
+const lastName = "Lovelace";
+// Only change code below this line
+const thirdLetterOfLastName = lastName[2];
+
+// 7 
