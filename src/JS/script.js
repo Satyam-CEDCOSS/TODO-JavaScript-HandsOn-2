@@ -88,3 +88,8 @@ myArray.unshift(["Paul", 35])
 // 19 Shopping List
 const myList = [["Satyam",1,2,3,4,5],["Satyam",1,2,3,4,5],["Satyam",1,2,3,4,5],["Satyam",1,2,3,4,5],["Satyam",1,2,3,4,5]];
 
+// 20 Write Reusable JavaScript with Functions
+function reusableFunction(){
+    console.log("Hi World");
+  }
+  reusableFunction()
