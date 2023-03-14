@@ -75,3 +75,8 @@ myArray.push(["dog", 3])
 // 16 Manipulate Arrays With pop Method
 const myArray = [["John", 23], ["cat", 2]];
 var removedFromMyArray = myArray.pop();
+
+// 17 Manipulate Arrays With shift Method
+const myArray = [["John", 23], ["dog", 3]];
+var removedFromMyArray = myArray.shift(["John", 23])
+
