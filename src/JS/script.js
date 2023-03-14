@@ -100,4 +100,7 @@ function functionWithArgs(param1, param2) {
   }
   functionWithArgs(10,20)
 
-  
+// 22 Return a Value from a Function with Return  
+function timesFive(num) {
+    return num * 5;
+  }
