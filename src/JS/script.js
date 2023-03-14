@@ -18,3 +18,9 @@ let firstLetterOfLastName = "";
 const lastName = "Lovelace";
 // Only change code below this line
 firstLetterOfLastName = lastName[0];
+
+// 5 Understand String Immutabilit
+let myStr = "Jello World";
+// Only change code below this line
+myStr = "Hello World";
+
