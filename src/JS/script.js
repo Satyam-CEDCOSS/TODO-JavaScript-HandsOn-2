@@ -47,3 +47,6 @@ const wordBlanks = "The "+myNoun+" was "+myAdjective+" and "+myVerb+" very "+myA
 
 // 10 Store Multiple Values in one Variable using JavaScript Arrays
 const myArray = ["Satyam", 21];
+
+// 11 Nest one Array within Another Array
+const myArray = [["Bulls", 23], ["White Sox", 45]];
