@@ -50,3 +50,7 @@ const myArray = ["Satyam", 21];
 
 // 11 Nest one Array within Another Array
 const myArray = [["Bulls", 23], ["White Sox", 45]];
+
+// 12 Access Array Data with Indexes
+const myArray = [50, 60, 70];
+let myData = myArray[0]
